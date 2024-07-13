@@ -1,0 +1,5 @@
+{
+  "name": "@eldoy/greet",
+  "version": "1.0.0",
+  "exports": "./mod.js"
+}
